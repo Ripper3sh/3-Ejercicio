@@ -1,0 +1,12 @@
+*{ /* El * es para que afecte a todo el contenido // Google Fonts: CSS rules to specify families */
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+}
+
+img {
+    width: 25px; /* Ancho */
+}
+
+video{
+   width: 400px;
+}
